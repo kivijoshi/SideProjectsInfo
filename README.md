@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Side Projects Page
 
-You can use the [editor on GitHub](https://github.com/kivijoshi/SideProjectsInfo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you will find information, links, notes on the side projects I am working on. Its for the purpose of my book keeping but I hope someone out there also benefits from it.
 
 ### Markdown
 
